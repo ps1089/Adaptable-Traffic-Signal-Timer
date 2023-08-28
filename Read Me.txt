@@ -1,0 +1,17 @@
+Project Name:
+Adaptable Traffic Signal Timer.
+
+
+Team Members:
+
+1. Keyur Kulkarni 
+
+2. Chinmay Nayak
+
+3. Paras Shah
+
+4. Aryaman Parkhi 
+
+Project Description:
+Efficient regulation of Traffic at traffic signals by taking into consideration the traffic density at every intersection of signals to provide appropriate green signal time (according to the density of 
+vehicles) to corresponding intersections of signals.
